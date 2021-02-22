@@ -3,24 +3,23 @@
   Usage
 ###########################
 
+Startup and Shutdown
+====================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Development:
-   :includehidden:
+Navigating the UI
+=================
 
-   ../Assist/Sup    <Startup.rst>
-   ../Assist/Nav    <Navigating.rst>
-   ../Assist/Doc    <Documents.rst>
-   ../Assist/Fac    <Facets.rst>
-   ../Assist/Net    <Networking.rst>
+Commands
+========
 
-* Startup and Shutdown
-* Navigating the UI
-* Commands in IO
-* Working with documents
-* Facets of IO
-* File exchange and networking
+Working with documents
+======================
+
+Applications
+============
+
+File exchange and networking
+============================
 
 https://github.com/io-core/Assist/blob/main/Hello.Mod
 
@@ -29,17 +28,6 @@ end-documentation-node *)
 (* begin-module-short-description
 provides help functionality in the UI.
 end-module-short-description *)
-
-(* begin-package-description
-### _Package Overview:_
-The Assist package manages:
-* contributions
-### _Package Use:_
-
-Explanation...
-
-### _Modules in this package:_
-end-package-description *)
 
 (* begin-module-use-description
 Module Hello handles:
